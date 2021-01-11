@@ -1,0 +1,44 @@
+[
+    {
+        "name": "手表",
+        "categoryId": "582",
+        "isSelected": 1,
+        "type": 2
+    },
+    {
+        "name": "服饰",
+        "categoryId": "722",
+        "isSelected": 0,
+        "type": 2
+    },
+    {
+        "name": "鞋靴",
+        "categoryId": "775",
+        "isSelected": 0,
+        "type": 2
+    },
+    {
+        "name": "3C数码",
+        "categoryId": "719",
+        "isSelected": 0,
+        "type": 2
+    },
+    {
+        "name": "手机壳",
+        "categoryId": "792",
+        "isSelected": 0,
+        "type": 2
+    },
+    {
+        "name": "箱包",
+        "categoryId": "578",
+        "isSelected": 0,
+        "type": 2
+    },
+    {
+        "name": "水具",
+        "categoryId": "434",
+        "isSelected": 0,
+        "type": 2
+    }
+]

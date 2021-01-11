@@ -1,0 +1,1101 @@
+{
+    "listTitle": "专属于你一人的定制酱酒",
+    "listImg": "https://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png_360360.png",
+    "detail": {
+        "isBigV": 1,
+        "robWelfareInfo": {
+            "robberyAvatar": "",
+            "robberyText": "",
+            "exchangeGroupImage": "",
+            "guideRobText": "",
+            "robFriendList": [],
+            "payCoinNum": 0,
+            "sceneId": "",
+            "cardName": "",
+            "cardType": 0,
+            "grapEditorType": 0
+        },
+        "longProductName": "《财经》杂志梦工厂 【定制款】看山酒（酱香经典）酒十年老酒调配专属于你",
+        "userInfo": {
+            "cafeShopkeeper": 0,
+            "myCafeId": "",
+            "coffeeGuide": 1,
+            "userType": 0,
+            "avatar": "",
+            "userIdentityType": 0
+        },
+        "shareInfo": {
+            "shareCard": {
+                "isContainV": 0,
+                "isContainMoney": 1,
+                "cardTitle": "《财经》杂志梦工厂出品！专属于你一人的定制酱酒",
+                "imgTitle": "大牌品质，工厂价格",
+                "imgUrl": "https://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                "vAvatar": "https://bfs.biyao.com/group1/M01/DB/C0/rBACYV69FSqAP_r0AAFQvMw9Eb8366_150x150.jpg",
+                "vNickName": "《财经》杂志梦工厂",
+                "priceStr": "299",
+                "cardBgImg": "https://bfs.biyao.com/group1/M01/CD/79/rBACW16ybxqAMFdLAABqp8-ZU5U274.png",
+                "btnText": "去看看",
+                "supplierBackground": ""
+            },
+            "shareTitle": "",
+            "userIdentity": 3,
+            "sharePoster": {
+                "posterTitle": "大牌品质，工厂价格",
+                "imgUrl": "https://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png?x-oss-process=image/resize,limit_0,h_800,w_800",
+                "priceStr": "299",
+                "supplierBackground": "产自茅台镇",
+                "imgTitle": "专属于你一人的定制酱酒",
+                "vAvatar": "https://bfs.biyao.com/group1/M01/DB/C0/rBACYV69FSqAP_r0AAFQvMw9Eb8366_150x150.jpg",
+                "vNickName": "《财经》杂志梦工厂",
+                "videntity": "独立、独家、独到",
+                "miniCode": "https://bfs.biyao.com/group1/M01/6F/49/rBACW1_8WjSAKL4aAAEFUymcf90452.png",
+                "miniCodeText1": "长按识别小程序码",
+                "miniCodeText2": "查看商品",
+                "posterBg": "https://bfs.biyao.com/group1/M01/CD/79/rBACW16ybxKAOFlpAAHGbu8i9Pc264.png"
+            },
+            "shareImg": "https://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png?x-oss-process=image/resize,m_fixed,limit_0,w_500,h_400",
+            "urlQuery": "&utm=share.wx.2.500015..."
+        },
+        "mContent": "<p><img src=\"http://bfs.biyao.com/group1/M01/5E/1F/rBACW1_r4xiAMJ1-AAlo6Ai0Kps200.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5C/24/rBACVF_r4xeAb7pTAAbRGfM55-0786.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5D/82/rBACYV_r4xiABnzbAA9hUPcAN6c390.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5C/24/rBACVF_r4xmARFKOAAcmulc6tpw471.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5E/1F/rBACW1_r4xqAL6fkAAgaIJt0nH4851.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5D/82/rBACYV_r4xqAQpOjAATeRcgMsyI713.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5C/24/rBACVF_r4xuAC50IAAhkHnhmsW8195.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5E/1F/rBACW1_r4xyAOAnIAAyluiMYpSQ105.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5E/1F/rBACW1_r4xyAPnJ3ABLeH-Y4PS0617.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/5D/82/rBACYV_r4x2Aa38mAAXhSHZP7d8010.jpg\"/></p><p><br/></p>",
+        "homeEntry": {
+            "onSaleGoods": [
+                {
+                    "image": "https://oss-customrender.biyao.com/96c09e96a5a5406facc63d10270634d8.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "1399",
+                    "suId": "23077950060000000323000034700010000000",
+                    "title": "专属于你的定制酱酒",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23077950063000034700010000000",
+                    "newDesignId": "411866621930110987",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "299",
+                    "suId": "23077950050000000323000034700010000000",
+                    "title": "专属于你一人的定制酱酒",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23077950053000034700010000000",
+                    "newDesignId": "411866621930094603",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/33a77fb96c0c464e979dbbf0f5f5acbd.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "1699",
+                    "suId": "23024751010000000223000034700010000000",
+                    "title": "表品BFriday机械表",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23024751013000034700010000000",
+                    "newDesignId": "411803057602019335",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/bcfddc8d92574a8f9879feeacbc6a47e.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "398",
+                    "suId": "23025450110000000123000034700010000000",
+                    "title": "定制梨膏礼盒 匠心熬制",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23025450113000034700010000000",
+                    "newDesignId": "411792998965461003",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/b363ea3eb14f45aca1c39949f94323a5.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "298",
+                    "suId": "23024550290000000123000034700010000000",
+                    "title": "送礼佳品·原木蜂蜜礼盒",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23024550293000034700010000000",
+                    "newDesignId": "411775934437343240",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/7b004a4cf63640e0897e7b082d8a25f7.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "139",
+                    "suId": "23014052780000000023000034700010000000",
+                    "title": "羊胎素活肤驻颜面膜",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23014052783000034700010000000",
+                    "newDesignId": "411767451686551562",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/1c04c345b98140eca9c9fe81049be32b.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "499",
+                    "suId": "23014052710000000123000034700010000000",
+                    "title": "多效面膜套盒",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23014052713000034700010000000",
+                    "newDesignId": "411767451500494858",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/a2179186f53a4b69a2b93f317943f60b.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "139",
+                    "suId": "23014052650000000123000034700010000000",
+                    "title": "酵素滋养面膜",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23014052653000034700010000000",
+                    "newDesignId": "411767451252883467",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/339d757eec7e40a9b8a550db55046fce.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "139",
+                    "suId": "23014052640000000123000034700010000000",
+                    "title": "芦荟保湿滋养面膜",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23014052643000034700010000000",
+                    "newDesignId": "411767451050328070",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/0ce200f76dfd4b0c8e7e80c359862a90.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "159",
+                    "suId": "23034751250000000123000034700010000000",
+                    "title": "便携304不锈钢咖啡杯 黑色",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23034751253000034700010000000",
+                    "newDesignId": "411750668865961994",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/0183d7f631064668996f2d6fcd9ac989.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "99",
+                    "suId": "23008154090000000123000034700010000000",
+                    "title": "个性全棉手提帆布袋",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23008154093000034700010000000",
+                    "newDesignId": "411728947666337801",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/9663ac7746434158810efccde07594f4.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "269",
+                    "suId": "23023651950000000023000034700020000000",
+                    "title": "福鼎白茶贡眉饼茶",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23023651953000034700020000000",
+                    "newDesignId": "411713609101033483",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/10cceb8122274a7291904cf54d059fec.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "3688",
+                    "suId": "23026950510000000123000034700010000000",
+                    "title": "大连淡干海参礼盒 400g",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23026950513000034700010000000",
+                    "newDesignId": "411708164812587014",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/27f1d912df6948cc9751c0ea957d1866.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "499",
+                    "suId": "23027950720000000523000034700010000000",
+                    "title": "休闲运动板鞋",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23027950723000034700010000000",
+                    "newDesignId": "411683782569197573",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/6b7808e7e526461ba5207c3109b3089e.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "159",
+                    "suId": "23011852790000000123000034700010000000",
+                    "title": "男士控油活力洗发露",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23011852793000034700010000000",
+                    "newDesignId": "411675511432970246",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/4b540644026e48a8b5b84df7b93eb596.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "169",
+                    "suId": "23011852850000000123000034700010000000",
+                    "title": "臻致幽兰香氛沐浴露",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23011852853000034700010000000",
+                    "newDesignId": "411675511144562692",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/d85aeb304af846b3a2652e37322c7776.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "169",
+                    "suId": "23011852840000000223000034700010000000",
+                    "title": "奢雅玫情香氛沐浴露",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23011852843000034700010000000",
+                    "newDesignId": "411675511010312198",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/c65deefebc334c6c8abe691ea10730d9.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "169",
+                    "suId": "23011852810000000223000034700010000000",
+                    "title": "沁润保湿爽肤水",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23011852813000034700010000000",
+                    "newDesignId": "411675510677536768",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/5a4b575552334929a6861972b27d800a.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "359",
+                    "suId": "23011651060000000823000034700010000000",
+                    "title": "高帮帆布女鞋",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23011651063000034700010000000",
+                    "newDesignId": "411667141794152454",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                },
+                {
+                    "image": "https://oss-customrender.biyao.com/89b5d83e4d6d47a2a6f8d38dee6654b1.png?x-oss-process=image/resize,limit_0,h_360,w_360",
+                    "labels": [],
+                    "priceStr": "359",
+                    "suId": "23011651040000001323000034700010000000",
+                    "title": "经典高帮帆布鞋女鞋",
+                    "customProductId": "",
+                    "designId": "",
+                    "type": 3,
+                    "deleteBtn": null,
+                    "unPublishedIcon": null,
+                    "urlQuery": "&designId=&customProductId=",
+                    "productType": 1,
+                    "productId": "23011651043000034700010000000",
+                    "newDesignId": "411665773201866759",
+                    "background": "",
+                    "supplierBackground": "",
+                    "showLiveLabel": 0,
+                    "routerUrl": "",
+                    "cafeDesignIdTemp": ""
+                }
+            ],
+            "headImg": "https://bfs.biyao.com/group1/M01/DB/C0/rBACYV69FSqAP_r0AAFQvMw9Eb8366_150x150.jpg",
+            "nickName": "《财经》杂志梦工厂",
+            "onSaleNum": "99+",
+            "targetUid": "7846088",
+            "urlQuery": ""
+        },
+        "orgnalSuId": "23077950050000000323000034700010000000",
+        "backgroundOrIpoType": 1,
+        "repurchaseInfo": {
+            "buttonText": "",
+            "buttonPrice": ""
+        },
+        "businessId": "772",
+        "giftSpecWord": "收礼人领取礼物时可更换其他规格哦",
+        "diffAddressPriceStr": "285",
+        "sameAddressPriceStr": "285",
+        "questionInfo": {
+            "isShow": 0,
+            "questionCount": 0,
+            "questionList": []
+        },
+        "eventBueryPoint": "special_friend_id=7846088&commoditydentity_type=6&product_id=1307795005&custom_coffee_id=&superset_su_id=23077950050000000323000034700010000000",
+        "productName": "专属于你一人的定制酱酒",
+        "supplierInfo": {
+            "storeDesc": "看山酱酒均产自中国酱酒之乡贵州省茅台镇，产地直供，地道正宗，酒质上乘。-----\n看山酱酒是一家集研发、生产、销售、服务于一体的原生态酒业公司，是国内知名酱香基酒生产企业之一。-----\n看山酱酒拥有三百六十余年酿造历史，酒厂坐落于酿酒之都——贵州茅台镇核心产区，致力于通过匠心工艺、地道原料、个性设计和差异化理念，为消费者提供更具性价比的高品质酱酒产品。-----",
+            "servicesTel": "400-076-9981",
+            "supportIM": 1,
+            "supplierId": 130779,
+            "onsellCount": "4",
+            "_store_name": "看山酱酒",
+            "groupId": "130779",
+            "urlLogo": "https://bfs.biyao.com/group1/M01/4B/6D/rBACW1_ZzaCAGG9JAAFfPL5MrmM980_200x200.jpg",
+            "serviceTime": "7*24小时",
+            "quality": "4.9",
+            "serviceAttitude": "5.0",
+            "chatUrl": "",
+            "newServiceAttitude": "5.0",
+            "newQuality": "4.9",
+            "urlQuery": "",
+            "policy": [
+                {
+                    "policyDescription": "根据国家七天无理由退货规范，为您办理退货退款，具体退货政策见商品详情页。",
+                    "policyName": "7天无忧退货"
+                },
+                {
+                    "policyDescription": "争议可申诉，申诉成功，立即退款。",
+                    "policyName": "先行赔付"
+                },
+                {
+                    "policyDescription": "未按承诺时间发货，系统自动赔付（赔款金额为订单商品金额的30%，上限500元）。",
+                    "policyName": "超时赔偿"
+                }
+            ]
+        },
+        "privilegeCard": {
+            "isShow": 0,
+            "cardType": 0,
+            "cardName": "",
+            "info": "",
+            "remainTime": 0
+        },
+        "supportAR": 0,
+        "firstDrawImage": "https://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png",
+        "post": {
+            "image": [],
+            "avatarUrl": "",
+            "nickName": "",
+            "labelType": 0,
+            "buyTime": "",
+            "favorableRate": "",
+            "praise": "",
+            "sizeDes": "",
+            "isShow": 0,
+            "vipLevel": 0,
+            "praiseDegree": "",
+            "identity": 0,
+            "comment": "",
+            "socialDescription": ""
+        },
+        "privilegeData": {
+            "deductionInt": 0,
+            "deduction": 0,
+            "deductionStr": "",
+            "frendNickName": "",
+            "privilegeText": ""
+        },
+        "supportTexture": 0,
+        "poiInfo": {
+            "isShow": 1,
+            "poiId": "-999",
+            "poiName": "产自茅台镇",
+            "channelKey": 1,
+            "longitude": "119.940973",
+            "latitude": "30.04739"
+        },
+        "allowanceMap": {
+            "23077950050000000323000034700010000000": {
+                "normalText": "",
+                "groupText": "",
+                "hasAllowance": 0
+            },
+            "23077950050000000523000034700010000000": {
+                "normalText": "",
+                "groupText": "",
+                "hasAllowance": 0
+            },
+            "23077950050000000423000034700010000000": {
+                "normalText": "",
+                "groupText": "",
+                "hasAllowance": 0
+            }
+        },
+        "xActivityArea": {
+            "title": "",
+            "image": "",
+            "deployId": 0,
+            "goodsList": [],
+            "xPriceStr": "",
+            "xPriceCent": "",
+            "displayArea": {
+                "activityText": "",
+                "totalSales": ""
+            },
+            "bubbleTip": "",
+            "bubbleRate": ""
+        },
+        "diffAddressPrice": 285,
+        "textureSwitch": 0,
+        "limitPreferential": {
+            "toast": "",
+            "isPreferential": 0
+        },
+        "sizeTableImg": "",
+        "productId": "23077950053000034700010000000",
+        "texturePopText": "暂不支持小程序内定制功能",
+        "groupBuy": 1,
+        "productInfo": {
+            "productType": 5,
+            "coffeeGuideTip": "咖啡产地直供，手冲咖啡好喝不贵",
+            "urlQuery": {
+                "cafeKeeper": "",
+                "cafeNoKeeper": "",
+                "coffeeEntry": "",
+                "shopAvatar": "",
+                "shopSold": "",
+                "cafeHomeEntry": "",
+                "popGoBuy": "",
+                "goShopcar": ""
+            },
+            "coffeeTransparentImage": "",
+            "coffeeCupImage": "https://bfs.biyao.com/group1/M00/F6/BB/rBACVF3ePzOAHyZZAATAK4ZYSyI787.png",
+            "designId": "",
+            "isUserAvatarCoffee": 0,
+            "coffeeShareTip": null,
+            "customIdentity": 3
+        },
+        "commentCount": 0,
+        "sizeDetail": [
+            {
+                "minSkuId": 1307795005000000000,
+                "suId": "23077950050000000323000034700010000000",
+                "storeStatus": 1,
+                "duration": 7,
+                "randerImg": [],
+                "largeConfirmImg": "",
+                "priceStr": "299",
+                "specs": [
+                    {
+                        "name": "规格",
+                        "specsCateId": 108090,
+                        "specsId": 543235,
+                        "des": "1瓶"
+                    },
+                    {
+                        "name": "外盒",
+                        "specsCateId": 108097,
+                        "specsId": 543251,
+                        "des": "外盒"
+                    },
+                    {
+                        "name": "酒瓶",
+                        "specsCateId": 108098,
+                        "specsId": 543252,
+                        "des": "酒瓶"
+                    }
+                ],
+                "smallConfirmImg": "http://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png?x-oss-process=image/resize,limit_0,h_800,w_800",
+                "price": 299,
+                "priceOriginStr": "299",
+                "priceInt": 29900
+            },
+            {
+                "minSkuId": 1307795005000000000,
+                "suId": "23077950050000000423000034700010000000",
+                "storeStatus": 1,
+                "duration": 7,
+                "randerImg": [],
+                "largeConfirmImg": "",
+                "priceStr": "578",
+                "specs": [
+                    {
+                        "name": "规格",
+                        "specsCateId": 108090,
+                        "specsId": 543236,
+                        "des": "2瓶"
+                    },
+                    {
+                        "name": "外盒",
+                        "specsCateId": 108097,
+                        "specsId": 543251,
+                        "des": "外盒"
+                    },
+                    {
+                        "name": "酒瓶",
+                        "specsCateId": 108098,
+                        "specsId": 543252,
+                        "des": "酒瓶"
+                    }
+                ],
+                "smallConfirmImg": "http://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png?x-oss-process=image/resize,limit_0,h_800,w_800",
+                "price": 578,
+                "priceOriginStr": "578",
+                "priceInt": 57800
+            },
+            {
+                "minSkuId": 1307795005000000000,
+                "suId": "23077950050000000523000034700010000000",
+                "storeStatus": 1,
+                "duration": 7,
+                "randerImg": [],
+                "largeConfirmImg": "",
+                "priceStr": "1659",
+                "specs": [
+                    {
+                        "name": "规格",
+                        "specsCateId": 108090,
+                        "specsId": 543237,
+                        "des": "6瓶"
+                    },
+                    {
+                        "name": "外盒",
+                        "specsCateId": 108097,
+                        "specsId": 543251,
+                        "des": "外盒"
+                    },
+                    {
+                        "name": "酒瓶",
+                        "specsCateId": 108098,
+                        "specsId": 543252,
+                        "des": "酒瓶"
+                    }
+                ],
+                "smallConfirmImg": "http://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png?x-oss-process=image/resize,limit_0,h_800,w_800",
+                "price": 1659,
+                "priceOriginStr": "1659",
+                "priceInt": 165900
+            }
+        ],
+        "rasterType": 0,
+        "isGroupBuy": 1,
+        "isTop": 0,
+        "sameAddressPrice": 285,
+        "supplierBackground": "产自茅台镇",
+        "isCollected": 0,
+        "supportGift": 1,
+        "imgList": [
+            {
+                "horizontal": 5,
+                "smallImg": "https://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png_16001600.png",
+                "vertical": 5,
+                "type": 1
+            },
+            {
+                "horizontal": 0,
+                "smallImg": "https://oss-customrender.biyao.com/c5680d7b346f4f038a4f132a1d4df26b.png_16001600.png",
+                "vertical": 0,
+                "type": 1
+            },
+            {
+                "horizontal": 12,
+                "smallImg": "https://oss-customrender.biyao.com/646639d0393849b682eaf33b6fddff1b.png_16001600.png",
+                "vertical": 19,
+                "type": 1
+            },
+            {
+                "horizontal": null,
+                "smallImg": "https://bfs.biyao.com/group1/M01/5C/1C/rBACVF_r3dyAMIUqAA6WNGdKt_M037_800x800.jpg",
+                "vertical": null,
+                "type": 2
+            },
+            {
+                "horizontal": null,
+                "smallImg": "https://bfs.biyao.com/group1/M01/5E/16/rBACW1_r3e6ARCfQABSXylEwPuQ072_800x800.jpg",
+                "vertical": null,
+                "type": 2
+            }
+        ],
+        "productSale": "纯粮酿造入口绵柔甘甜不上头专属定制私人订制企业定制正宗茅台镇酱酒",
+        "shelfStatus": 1,
+        "beforeConfirmationUrlQuery": "",
+        "sizeList": {
+            "facadeSpecs": [
+                {
+                    "name": "外盒",
+                    "specsType": 0,
+                    "specs": [],
+                    "specsCateId": 108097,
+                    "type": 1
+                },
+                {
+                    "name": "酒瓶",
+                    "specsType": 0,
+                    "specs": [],
+                    "specsCateId": 108098,
+                    "type": 1
+                }
+            ],
+            "normalSpecs": [
+                {
+                    "name": "规格",
+                    "specs": [
+                        {
+                            "specsImg": "",
+                            "specsImgWebp": "",
+                            "specsId": 543235,
+                            "des": "1瓶"
+                        },
+                        {
+                            "specsImg": "",
+                            "specsImgWebp": "",
+                            "specsId": 543236,
+                            "des": "2瓶"
+                        },
+                        {
+                            "specsImg": "",
+                            "specsImgWebp": "",
+                            "specsId": 543237,
+                            "des": "6瓶"
+                        }
+                    ],
+                    "specsCateId": 108090,
+                    "type": 0
+                }
+            ]
+        },
+        "diffAddressPriceInt": 28500,
+        "coffeeStore": "",
+        "sameAddressPriceInt": 28500,
+        "productionTips": {
+            "content": [
+                "根据所选规格的不同，价格及生产周期可能会不同，实际价格以所选商品规格为准。",
+                "",
+                "由于部分商品是先下单后生产，因此会有一定的生产周期，请您耐心等待哦。",
+                "",
+                "孤品：为测试用户喜好，制造商会对某些商品进行小批量生产售卖测试。如用户喜欢，购买转化率高，则追加生产，反之则不追加。不再追加生产的商品可能会存在尺码不全的情况，这种商品我们称之为孤品。"
+            ],
+            "title": "价格和生产周期说明"
+        },
+        "buyLimitNum": 1,
+        "newBusinessId": "714",
+        "miniShareImg": "http://bfs.biyao.com/group1/M01/5C/1C/rBACVF_r3deAMnCuAA19Q5I6ndg813_640x500.jpg",
+        "supplierBackgroundRouter": "",
+        "defaultAdImg": "",
+        "isDefaultCoffee": 0,
+        "onSellGoodsInfo": [
+            {
+                "image": "http://bfs.biyao.com/group1/M01/5B/0C/rBACYV_qnKyAcdlXAAkQFiFyHv0706_360x360.jpg",
+                "priceStr": "289",
+                "ignoreBusiness": 0,
+                "suId": "1307795002010000001",
+                "title": "看山酱香经典53°纯粮白酒",
+                "imageWebp": "",
+                "showLiveLabel": 0,
+                "urlQuery": "",
+                "labels": [
+                    {
+                        "color": "",
+                        "roundColor": "#FB4C81",
+                        "textColor": "#FB4C81",
+                        "content": "一起拼"
+                    }
+                ],
+                "jumpLadder": 0
+            },
+            {
+                "image": "http://bfs.biyao.com/group1/M01/5B/15/rBACYV_qoN2AEtw8AAkuA0G_vLw447_360x360.jpg",
+                "priceStr": "1389",
+                "ignoreBusiness": 0,
+                "suId": "1307795003010000001",
+                "title": "看山酱香品鉴53°纯粮白酒",
+                "imageWebp": "",
+                "showLiveLabel": 0,
+                "urlQuery": "",
+                "labels": [
+                    {
+                        "color": "",
+                        "roundColor": "#FB4C81",
+                        "textColor": "#FB4C81",
+                        "content": "一起拼"
+                    }
+                ],
+                "jumpLadder": 0
+            },
+            {
+                "image": "http://bfs.biyao.com/group1/M01/5D/86/rBACYV_r5PSAcUSVAAir-m1M26c210_360x360.jpg",
+                "priceStr": "1399",
+                "ignoreBusiness": 0,
+                "suId": "1307795006000000032",
+                "title": "专属于你的定制酱酒",
+                "imageWebp": "",
+                "showLiveLabel": 0,
+                "urlQuery": "",
+                "labels": [
+                    {
+                        "color": "",
+                        "roundColor": "#FB4C81",
+                        "textColor": "#FB4C81",
+                        "content": "定制"
+                    }
+                ],
+                "jumpLadder": 0
+            }
+        ],
+        "customProductInfo": {
+            "defaultAdImg": "",
+            "topCustomBtnText": "",
+            "bottomCustomBtnText": ""
+        },
+        "newUserBtnText": "",
+        "isARGlassesEntry": 0,
+        "groupBtnText": "邀新人拼团",
+        "originPriceBuy": 0,
+        "reBuyEntryUrlQuery": "",
+        "designCycle": 0,
+        "cmsNewUserImage": "https://bfs.biyao.com/group1/M00/34/2C/rBACYV0tMySAOkpLAAGVamgPPCo557.png",
+        "suData": {
+            "duration": 7,
+            "randerImg": [],
+            "largeConfirmImg": "",
+            "minSkuId": 1307795005000000000,
+            "priceStr": "299",
+            "specs": [
+                {
+                    "specsCateId": 108090,
+                    "des": "1瓶",
+                    "name": "规格",
+                    "specsId": 543235
+                },
+                {
+                    "specsCateId": 108097,
+                    "des": "外盒",
+                    "name": "外盒",
+                    "specsId": 543251
+                },
+                {
+                    "specsCateId": 108098,
+                    "des": "酒瓶",
+                    "name": "酒瓶",
+                    "specsId": 543252
+                }
+            ],
+            "smallConfirmImg": "http://oss-customrender.biyao.com/6ccf481e58c5417585cafbdbfabf4686.png?x-oss-process=image/resize,limit_0,h_800,w_800",
+            "price": 299,
+            "suId": "23077950050000000323000034700010000000",
+            "priceOriginStr": "299",
+            "storeStatus": 1,
+            "priceInt": 29900
+        },
+        "goldToast": "",
+        "saleMode": 1,
+        "richTextInfo": [
+            {
+                "paramName": "商品名称",
+                "paramValue": "【定制款】看山酒（酱香经典）酒"
+            },
+            {
+                "paramName": "主要成分",
+                "paramValue": "高粱、小麦、水"
+            },
+            {
+                "paramName": "规格",
+                "paramValue": "  500mL/瓶"
+            },
+            {
+                "paramName": "香型",
+                "paramValue": "酱香型"
+            },
+            {
+                "paramName": "酒精度",
+                "paramValue": "53%vol"
+            },
+            {
+                "paramName": "产地",
+                "paramValue": "贵州省遵义市茅台镇"
+            },
+            {
+                "paramName": "储存方式",
+                "paramValue": "避免阳光直晒，置于阴凉、通风、干燥下保存"
+            },
+            {
+                "paramName": "保质期 ",
+                "paramValue": "无保质期，优质酱酒，越陈越香"
+            },
+            {
+                "paramName": "注意事项1",
+                "paramValue": "品酒期间，品酒人员不宜擦拭香水、香粉和使用香味浓的肥皂，品酒环境下不宜有芳香性的食物、化妆品和用具"
+            },
+            {
+                "paramName": "注意事项2 ",
+                "paramValue": "品酒前半个小时内不宜吸烟，不宜吃刺激性强的食物，以免影响品酒的口感"
+            },
+            {
+                "paramName": "注意事项3",
+                "paramValue": "高粱、小麦过敏者不宜饮用。孕妇哺乳期妇女、未成年人不宜饮用"
+            }
+        ],
+        "isOldDetail": 0,
+        "joinGroupInfo": {
+            "title": "新人参团 (点击快速成团)",
+            "list": [
+                {
+                    "groupId": "22021035390605354",
+                    "remainTime": 66628,
+                    "groupCount": 2,
+                    "residue": 1,
+                    "addressType": 0,
+                    "members": [
+                        {
+                            "uid": 18623049,
+                            "identity": 0,
+                            "nickName": "胡绍英",
+                            "avatar": "https://bfs.biyao.com/group1/M00/7F/4E/rBACYV16HseAP-PnAAAW9bbVoKE463.png"
+                        }
+                    ],
+                    "joinGroupType": 0
+                },
+                {
+                    "groupId": "22021033586954731",
+                    "remainTime": 48599,
+                    "groupCount": 2,
+                    "residue": 1,
+                    "addressType": 0,
+                    "members": [
+                        {
+                            "uid": 20922805,
+                            "identity": 0,
+                            "nickName": "139****0500",
+                            "avatar": "https://bfs.biyao.com/group1/M00/7F/4E/rBACYV16HseAP-PnAAAW9bbVoKE463.png"
+                        }
+                    ],
+                    "joinGroupType": 0
+                }
+            ]
+        },
+        "textureName": "",
+        "groupStatus": 1,
+        "cashBackInfo": {
+            "haveCashBackCard": null,
+            "canCashBackAmount": "",
+            "subtractAmount": "",
+            "remainTime": "",
+            "placeAnOrderPrice": "",
+            "activityStatus": null,
+            "needGroup": null,
+            "percent": null,
+            "progressText": "",
+            "describe": "",
+            "placeAnOrderPriceText": "",
+            "placeAnOrderShareText": "",
+            "robberUid": null
+        },
+        "bottomTipsText": "参团用户可以选择任意商品随意拼",
+        "minusProfit": 1,
+        "isCarve": 0,
+        "goldInfo": {
+            "suId": "",
+            "payAmount": "0",
+            "goldNum": 0,
+            "goldDeductionAmount": "0",
+            "goldDeductionAmountCent": null,
+            "enableSale": null,
+            "activityId": "",
+            "activityProductId": "",
+            "activityProductSkuId": "",
+            "activityPoolId": "",
+            "discountSupplierPrice": null,
+            "discountPlatformPrice": null,
+            "discountSupplierRatio": null,
+            "discountPlatformRatio": null,
+            "stockNum": null
+        },
+        "newUserPirceStr": "",
+        "generalPageUrlQuery": "",
+        "shopAllowEntryInfo": {
+            "isShowAllowanceFloat": 0,
+            "allowanceFloatImg": "",
+            "urlQuery": ""
+        },
+        "buyReturn": {
+            "buyReturnSwitch": 0,
+            "selectoBtnTitle": "",
+            "guideSwitch": 0,
+            "enteyImg": "",
+            "urlQuery": ""
+        },
+        "designPrice": "0",
+        "productMdetail": "<div class=\"txq_container\">\n <div class=\"txq_header\">\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     商品名称\n    </dt>\n    <dd>\n     【定制款】看山酒（酱香经典）酒\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     主要成分\n    </dt>\n    <dd>\n     高粱、小麦、水\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     规格\n    </dt>\n    <dd>\n      500mL/瓶\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     香型\n    </dt>\n    <dd>\n     酱香型\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     酒精度\n    </dt>\n    <dd>\n     53%vol\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     产地\n    </dt>\n    <dd>\n     贵州省遵义市茅台镇\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     储存方式\n    </dt>\n    <dd>\n     避免阳光直晒，置于阴凉、通风、干燥下保存\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     保质期 \n    </dt>\n    <dd>\n     无保质期，优质酱酒，越陈越香\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     注意事项1\n    </dt>\n    <dd>\n     品酒期间，品酒人员不宜擦拭香水、香粉和使用香味浓的肥皂，品酒环境下不宜有芳香性的食物、化妆品和用具\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     注意事项2 \n    </dt>\n    <dd>\n     品酒前半个小时内不宜吸烟，不宜吃刺激性强的食物，以免影响品酒的口感\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     注意事项3\n    </dt>\n    <dd>\n     高粱、小麦过敏者不宜饮用。孕妇哺乳期妇女、未成年人不宜饮用\n    </dd>\n   </dl>\n  </div>\n </div>\n <div class=\"txq_details\">\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5E/1F/rBACW1_r4xiAMJ1-AAlo6Ai0Kps200.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5C/24/rBACVF_r4xeAb7pTAAbRGfM55-0786.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5D/82/rBACYV_r4xiABnzbAA9hUPcAN6c390.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5C/24/rBACVF_r4xmARFKOAAcmulc6tpw471.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5E/1F/rBACW1_r4xqAL6fkAAgaIJt0nH4851.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5D/82/rBACYV_r4xqAQpOjAATeRcgMsyI713.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5C/24/rBACVF_r4xuAC50IAAhkHnhmsW8195.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5E/1F/rBACW1_r4xyAOAnIAAyluiMYpSQ105.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5E/1F/rBACW1_r4xyAPnJ3ABLeH-Y4PS0617.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/5D/82/rBACYV_r4x2Aa38mAAXhSHZP7d8010.jpg\"></p>\n  <p><br></p>\n </div>\n</div>",
+        "groupLimitType": 0,
+        "newUserByTwoInfo": {
+            "firstOrderText": "",
+            "newUserBtnText": "",
+            "shopBagNum": null
+        },
+        "categoryId": 6000433,
+        "joinGroupType": 0,
+        "supportLive": 0
+    }
+}

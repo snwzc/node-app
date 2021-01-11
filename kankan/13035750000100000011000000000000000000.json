@@ -1,0 +1,631 @@
+{
+    "listTitle": "手冲定制咖啡6杯9.9元/杯",
+    "listImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/biyaoshangchengios/7bbf5f1e48c99fe21f61e8adac2385d7.png?x-oss-process=image/resize,m_fill,h_360,w_360",
+    "detail": {
+        "isBigV": 0,
+        "robWelfareInfo": {
+            "robberyAvatar": "",
+            "robberyText": "",
+            "exchangeGroupImage": "",
+            "guideRobText": "",
+            "robFriendList": [],
+            "payCoinNum": 0,
+            "sceneId": "",
+            "cardName": "",
+            "cardType": 0,
+            "grapEditorType": 0
+        },
+        "longProductName": "手冲定制咖啡6杯 9.9元/杯",
+        "userInfo": {
+            "cafeShopkeeper": 0,
+            "myCafeId": "",
+            "coffeeGuide": 1,
+            "userType": 0,
+            "avatar": "",
+            "userIdentityType": 0
+        },
+        "shareInfo": {
+            "imageText": "ANNY咖啡",
+            "shareSpareImage": "https://bfs.biyao.com/group1/M00/FA/EC/rBACVF3g8TuACis9AALhXFaDVU8705.png",
+            "shareCard": {
+                "isContainV": 0,
+                "isContainMoney": 0,
+                "cardTitle": "",
+                "imgTitle": "",
+                "imgUrl": "",
+                "vAvatar": "",
+                "vNickName": "",
+                "priceStr": "",
+                "cardBgImg": "",
+                "btnText": "",
+                "supplierBackground": ""
+            },
+            "coffeeImage": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001107254586b1575275953854android.png?x-oss-process=image/resize,m_fill,h_360,w_360",
+            "shareTitle": "这么好的咖啡，居然还可以定制？",
+            "bgImageV1": "https://bfs.biyao.com/group1/M01/5B/B8/rBACW1_qosCAUM3aAADD3-VkDQ4235.jpg",
+            "bgImage": "https://bfs.biyao.com/group1/M01/5B/B7/rBACW1_qorWABWbkAADh6sSkOkU949.jpg",
+            "userIdentity": 1,
+            "sharePoster": {
+                "posterTitle": "",
+                "imgUrl": "",
+                "priceStr": "",
+                "supplierBackground": "",
+                "imgTitle": "",
+                "vAvatar": "",
+                "vNickName": "",
+                "videntity": "",
+                "miniCode": "",
+                "miniCodeText1": "",
+                "miniCodeText2": "",
+                "posterBg": ""
+            },
+            "urlQuery": "&utm=lbtg.kafei.share5.500015...",
+            "designImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001773446580c1575275953860android.png"
+        },
+        "mContent": "<p><img src=\"http://bfs.biyao.com/group1/M01/57/46/rBACVF8fwQyAKvk9AAddusuK_RM400.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/58/A2/rBACYV8fwQyAW4EaAAUYqhb3SBU317.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/57/46/rBACVF8fwQyAIISYAAcCjR3zj0k312.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/58/A2/rBACYV8fwRCAHNeAAA2Zg6BBHCQ142.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/59/2B/rBACW18fwRCAbXLJAAbMhXYzLe8564.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/57/46/rBACVF8fwQ-AGln0AAQKA-aZfmI495.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/58/A2/rBACYV8fwRCAQZ4KAANHWTjmcnk136.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/59/2B/rBACW18fwRKAdKlUAAcsRk1n-i8837.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/59/2B/rBACW18fwRKAJaBmAAQPb8iTOwA346.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/57/46/rBACVF8fwRKAQclzAAIfQcs77d4546.jpg\"/></p><p><img src=\"http://bfs.biyao.com/group1/M01/20/28/rBACVF-2UIuAIAnwAAiERi6Xt3I759.jpg\"/></p><p><br/></p>",
+        "coffeeGuide": {
+            "isShow": 1,
+            "cupFigureImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001107254586b1575275953854android.png",
+            "centerText": "图案可以定制哦",
+            "textFirst": "新手特权金可减十元",
+            "textSecond": "杯体图片可以定制哦",
+            "cafeHouseTip": "",
+            "cafeRedDot": 0
+        },
+        "coffeeLikes": {
+            "likesNum": "",
+            "praiseHandle": "",
+            "isLikes": null,
+            "likesText": ""
+        },
+        "orgnalSuId": "1303575000010000001",
+        "coffeeTipBar": {
+            "timer": null,
+            "infoListNum": "",
+            "searchAfter": "",
+            "tipList": []
+        },
+        "backgroundOrIpoType": 1,
+        "repurchaseInfo": {
+            "buttonText": "",
+            "buttonPrice": ""
+        },
+        "businessId": "344",
+        "giftSpecWord": "收礼人领取礼物时可更换其他规格哦",
+        "diffAddressPriceStr": "",
+        "sameAddressPriceStr": "",
+        "questionInfo": {
+            "isShow": 0,
+            "questionCount": 0,
+            "questionList": []
+        },
+        "eventBueryPoint": "special_friend_id=&commoditydentity_type=&product_id=&custom_coffee_id=2&superset_su_id=",
+        "productName": "手冲定制咖啡6杯9.9元/杯",
+        "supplierInfo": {
+            "storeDesc": "小必咖啡源自云南咖啡豆产地----- 小必咖啡拥有一条5000吨三合一速溶咖啡生产线和一条1200吨焙炒咖啡生产线----- 小必咖啡通过了ISO9001、2000质量管理体系及HACCP食品安全管理体系认证，是全国咖啡行业中首家通过HACCP食品安全管理体系认证的企业----- ",
+            "servicesTel": "9533859",
+            "supportIM": 1,
+            "supplierId": 130357,
+            "onsellCount": "1",
+            "_store_name": "小必咖啡",
+            "groupId": "130160",
+            "urlLogo": "https://bfs.biyao.com/group1/M00/CA/B8/rBACVF274CWATwm9AAMufRaq9FE895_200x200.jpg",
+            "serviceTime": "7*24小时",
+            "quality": "5.0",
+            "serviceAttitude": "5.0",
+            "chatUrl": "",
+            "newServiceAttitude": "5.0",
+            "newQuality": "5.0",
+            "urlQuery": "",
+            "policy": [
+                {
+                    "policyDescription": "此类商品不支持七天无理由退货，不允许拒收",
+                    "policyName": "不支持7天退货"
+                },
+                {
+                    "policyDescription": "食品饮料享受顺丰包邮",
+                    "policyName": "顺丰包邮"
+                },
+                {
+                    "policyDescription": "商品破损/涨袋等问题，签收48小时内拍照反馈，审核通过后予以赔付，是否返回商品由双方协商",
+                    "policyName": "售后赔付"
+                },
+                {
+                    "policyDescription": "商品签收48小时内；超出理赔时效，不予理赔",
+                    "policyName": "理赔时效"
+                }
+            ]
+        },
+        "privilegeCard": {
+            "isShow": 0,
+            "cardType": 0,
+            "cardName": "",
+            "info": "",
+            "remainTime": 0
+        },
+        "supportAR": 0,
+        "firstDrawImage": "",
+        "post": {
+            "image": [
+                "http://bfs.biyao.com/group1/M01/43/22/rBACW1_SH-OAJYQoAACeUFYe_zY78.jpeg",
+                "http://bfs.biyao.com/group1/M01/43/22/rBACW1_SH-OASJ7-AACtKLBpkLI47.jpeg",
+                "http://bfs.biyao.com/group1/M01/41/22/rBACVF_SH-KAb0PZAAERHGWl8fQ82.jpeg"
+            ],
+            "avatarUrl": "https://bfs.biyao.com/group1/M01/37/61/rBACW1_Ht0yAJtM8AAAObAdd9Fs363.png",
+            "nickName": "王***文",
+            "labelType": 1,
+            "buyTime": "2020.12.10",
+            "favorableRate": "99.4%",
+            "praise": "商品评价 (105892)",
+            "sizeDes": "咖啡风味: 原味大师",
+            "isShow": 1,
+            "vipLevel": 1,
+            "praiseDegree": "4.9",
+            "identity": 0,
+            "comment": "味道纯正！真的好咖啡☕☕☕☕",
+            "socialDescription": ""
+        },
+        "privilegeData": {
+            "deductionInt": 0,
+            "deduction": 0,
+            "deductionStr": "",
+            "frendNickName": "",
+            "privilegeText": ""
+        },
+        "supportTexture": 0,
+        "poiInfo": {
+            "isShow": 1,
+            "poiId": "-999",
+            "poiName": "星巴克咖啡中国产地",
+            "channelKey": 1,
+            "longitude": "102.781360000000",
+            "latitude": "24.991750000000"
+        },
+        "allowanceMap": {
+            "1303575000020000001": {
+                "normalText": "",
+                "groupText": "",
+                "hasAllowance": 0
+            },
+            "1303575000010000001": {
+                "normalText": "",
+                "groupText": "",
+                "hasAllowance": 0
+            },
+            "1303575000030000001": {
+                "normalText": "",
+                "groupText": "",
+                "hasAllowance": 0
+            },
+            "1303575000040000001": {
+                "normalText": "",
+                "groupText": "",
+                "hasAllowance": 0
+            }
+        },
+        "xActivityArea": {
+            "title": "",
+            "image": "",
+            "deployId": 0,
+            "goodsList": [],
+            "xPriceStr": "",
+            "xPriceCent": "",
+            "displayArea": {
+                "activityText": "",
+                "totalSales": ""
+            },
+            "bubbleTip": "",
+            "bubbleRate": ""
+        },
+        "diffAddressPrice": 0,
+        "returnMoney": 0,
+        "textureSwitch": 0,
+        "limitPreferential": {
+            "toast": "",
+            "isPreferential": 0
+        },
+        "sizeTableImg": "",
+        "productId": 1303575000,
+        "texturePopText": "暂不支持小程序内定制功能",
+        "groupBuy": 0,
+        "productInfo": {
+            "productType": 2,
+            "coffeeGuideTip": "产地直供，新手特权金可减十元",
+            "urlQuery": {
+                "cafeKeeper": "",
+                "cafeNoKeeper": "",
+                "coffeeEntry": "",
+                "shopAvatar": "",
+                "shopSold": "",
+                "cafeHomeEntry": "",
+                "popGoBuy": "",
+                "goShopcar": ""
+            },
+            "coffeeTransparentImage": "",
+            "coffeeCupImage": "https://bfs.biyao.com/group1/M00/F6/BB/rBACVF3ePzOAHyZZAATAK4ZYSyI787.png",
+            "designId": "",
+            "isUserAvatarCoffee": 0,
+            "coffeeShareTip": null,
+            "customIdentity": 1
+        },
+        "commentCount": 5284,
+        "sizeDetail": [
+            {
+                "minSkuId": 1303575000010000100,
+                "suId": "1303575000010000001",
+                "storeStatus": 1,
+                "duration": 7,
+                "randerImg": [
+                    "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg"
+                ],
+                "largeConfirmImg": "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg",
+                "priceStr": "59",
+                "specs": [
+                    {
+                        "specsCateId": 46710,
+                        "des": "原味大师",
+                        "name": "咖啡风味",
+                        "specsId": 347717
+                    }
+                ],
+                "smallConfirmImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001913984760a1575275953847android.jpg?x-oss-process=image/resize,m_fill,h_360,w_360",
+                "price": 59,
+                "priceInt": 5900
+            },
+            {
+                "minSkuId": 1303575000010000100,
+                "suId": "1303575000020000001",
+                "storeStatus": 1,
+                "duration": 7,
+                "randerImg": [
+                    "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg"
+                ],
+                "largeConfirmImg": "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg",
+                "priceStr": "59",
+                "specs": [
+                    {
+                        "specsCateId": 46710,
+                        "des": "拿铁风味",
+                        "name": "咖啡风味",
+                        "specsId": 347718
+                    }
+                ],
+                "smallConfirmImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001913984760a1575275953847android.jpg?x-oss-process=image/resize,m_fill,h_360,w_360",
+                "price": 59,
+                "priceInt": 5900
+            },
+            {
+                "minSkuId": 1303575000010000100,
+                "suId": "1303575000030000001",
+                "storeStatus": 1,
+                "duration": 7,
+                "randerImg": [
+                    "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg"
+                ],
+                "largeConfirmImg": "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg",
+                "priceStr": "59",
+                "specs": [
+                    {
+                        "specsCateId": 46710,
+                        "des": "摩卡风味",
+                        "name": "咖啡风味",
+                        "specsId": 347719
+                    }
+                ],
+                "smallConfirmImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001913984760a1575275953847android.jpg?x-oss-process=image/resize,m_fill,h_360,w_360",
+                "price": 59,
+                "priceInt": 5900
+            },
+            {
+                "minSkuId": 1303575000010000100,
+                "suId": "1303575000040000001",
+                "storeStatus": 1,
+                "duration": 7,
+                "randerImg": [
+                    "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg"
+                ],
+                "largeConfirmImg": "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg",
+                "priceStr": "59",
+                "specs": [
+                    {
+                        "specsCateId": 46710,
+                        "des": "抹茶风味",
+                        "name": "咖啡风味",
+                        "specsId": 363803
+                    }
+                ],
+                "smallConfirmImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001913984760a1575275953847android.jpg?x-oss-process=image/resize,m_fill,h_360,w_360",
+                "price": 59,
+                "priceInt": 5900
+            }
+        ],
+        "rasterType": -1,
+        "isGroupBuy": 0,
+        "isTop": 0,
+        "sameAddressPrice": "",
+        "supplierBackground": "星巴克咖啡中国产地",
+        "isCollected": 0,
+        "supportGift": 1,
+        "imgList": [
+            {
+                "smallImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001913984760a1575275953847android.jpg"
+            }
+        ],
+        "productSale": "随时随地享受定制手冲咖啡（约9.9元/杯）",
+        "shelfStatus": 1,
+        "beforeConfirmationUrlQuery": "",
+        "sizeList": {
+            "facadeSpecs": [],
+            "normalSpecs": [
+                {
+                    "specs": [
+                        {
+                            "des": "原味大师",
+                            "specsImg": "",
+                            "specsId": 347717
+                        },
+                        {
+                            "des": "拿铁风味",
+                            "specsImg": "",
+                            "specsId": 347718
+                        },
+                        {
+                            "des": "摩卡风味",
+                            "specsImg": "",
+                            "specsId": 347719
+                        },
+                        {
+                            "des": "抹茶风味",
+                            "specsImg": "",
+                            "specsId": 363803
+                        }
+                    ],
+                    "specsCateId": 46710,
+                    "name": "咖啡风味",
+                    "type": 0
+                }
+            ]
+        },
+        "diffAddressPriceInt": 0,
+        "coffeeStore": {
+            "cafeId": "1",
+            "myCafeId": "",
+            "cafeName": "ANNY咖啡",
+            "cafeImage": "https://bfs.biyao.com/group1/M00/A0/A3/rBACYVx1B1iAA8q1AAJNwKEnKMk163.png",
+            "background": "咖啡产地直供",
+            "soldNum": "210792",
+            "praiseNum": "",
+            "praiseHandle": "",
+            "ownerId": 1
+        },
+        "sameAddressPriceInt": 0,
+        "productionTips": {
+            "content": [
+                "根据所选规格的不同，价格及生产周期可能会不同，实际价格以所选商品规格为准。",
+                "",
+                "由于部分商品是先下单后生产，因此会有一定的生产周期，请您耐心等待哦。",
+                "",
+                "孤品：为测试用户喜好，制造商会对某些商品进行小批量生产售卖测试。如用户喜欢，购买转化率高，则追加生产，反之则不追加。不再追加生产的商品可能会存在尺码不全的情况，这种商品我们称之为孤品。"
+            ],
+            "title": "价格和生产周期说明"
+        },
+        "buyLimitNum": 1,
+        "newBusinessId": "291",
+        "miniShareImg": "http://bfs.biyao.com/group1/M01/F8/61/rBACYV7Qg7uAUTpVAAMVVEG7fD0780_640x500.jpg",
+        "supplierBackgroundRouter": "",
+        "defaultAdImg": "",
+        "isDefaultCoffee": 1,
+        "switchOpen": 0,
+        "onSellGoodsInfo": [],
+        "customProductInfo": {
+            "defaultAdImg": "",
+            "topCustomBtnText": "",
+            "bottomCustomBtnText": ""
+        },
+        "newUserBtnText": "",
+        "isARGlassesEntry": 0,
+        "groupBtnText": "邀新人拼团",
+        "originPriceBuy": 0,
+        "reBuyEntryUrlQuery": "",
+        "designCycle": 0,
+        "suData": {
+            "duration": 7,
+            "randerImg": [
+                "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg"
+            ],
+            "largeConfirmImg": "http://bfs.biyao.com/group1/M01/F8/62/rBACYV7Qg_aAUPvXAAOFPhgeRBk007_800x800.jpg",
+            "minSkuId": 1303575000010000100,
+            "priceStr": "59",
+            "specs": [
+                {
+                    "specsCateId": 46710,
+                    "des": "原味大师",
+                    "name": "咖啡风味",
+                    "specsId": 347717
+                }
+            ],
+            "smallConfirmImg": "https://chartlet.oss-cn-hangzhou.aliyuncs.com/9191202152058c3b33eec2ae07c9500000001913984760a1575275953847android.jpg?x-oss-process=image/resize,m_fill,h_360,w_360",
+            "price": 59,
+            "suId": "1303575000010000001",
+            "storeStatus": 1,
+            "priceInt": 5900
+        },
+        "goldToast": "",
+        "saleMode": 1,
+        "richTextInfo": [
+            {
+                "paramName": "咖啡豆",
+                "paramValue": "阿拉比卡咖啡豆"
+            },
+            {
+                "paramName": "规格",
+                "paramValue": "6杯"
+            },
+            {
+                "paramName": "是否含糖",
+                "paramValue": "配有糖包"
+            },
+            {
+                "paramName": "产地",
+                "paramValue": "中国大陆云南省"
+            },
+            {
+                "paramName": "咖啡粉保质期",
+                "paramValue": "12个月"
+            },
+            {
+                "paramName": "糖包保质期",
+                "paramValue": "24个月"
+            },
+            {
+                "paramName": "风味包保质期",
+                "paramValue": "18个月"
+            },
+            {
+                "paramName": "纸杯材质",
+                "paramValue": "食品级口杯纸"
+            },
+            {
+                "paramName": "杯套材质",
+                "paramValue": "双胶+口杯纸"
+            },
+            {
+                "paramName": "杯盖材质",
+                "paramValue": "PP"
+            },
+            {
+                "paramName": "滤杯材质",
+                "paramValue": "PP"
+            },
+            {
+                "paramName": "滤网材质",
+                "paramValue": "改性PET"
+            },
+            {
+                "paramName": "咖啡小罐材质",
+                "paramValue": "PP"
+            },
+            {
+                "paramName": "搅拌棒材质",
+                "paramValue": "桦木"
+            },
+            {
+                "paramName": "烘焙程度",
+                "paramValue": "烘焙程度属于中度，色度为69"
+            },
+            {
+                "paramName": "咖啡因的含量",
+                "paramValue": "约1.23%"
+            },
+            {
+                "paramName": "热量",
+                "paramValue": "1161千焦每杯/原味"
+            },
+            {
+                "paramName": "温馨提示1",
+                "paramValue": "“原味大师”不含风味包"
+            },
+            {
+                "paramName": "温馨提示2",
+                "paramValue": "订单交易成功后15个工作日内会将发票发送至预留的邮箱中"
+            },
+            {
+                "paramName": "温馨提示3",
+                "paramValue": "一套产品只能定制一个图案、选择一种口味"
+            },
+            {
+                "paramName": "温馨提示4",
+                "paramValue": "咖啡订单配送地址一经下单无法修改"
+            },
+            {
+                "paramName": "温馨提示5",
+                "paramValue": "咖啡订单一经下单不支持修改口味"
+            },
+            {
+                "paramName": "温馨提示6",
+                "paramValue": "咖啡定制图案仅杯套圆圈内展示"
+            }
+        ],
+        "isOldDetail": 0,
+        "joinGroupInfo": {},
+        "textureName": "",
+        "groupStatus": 0,
+        "cashBackInfo": {
+            "haveCashBackCard": null,
+            "canCashBackAmount": "",
+            "subtractAmount": "",
+            "remainTime": "",
+            "placeAnOrderPrice": "",
+            "activityStatus": null,
+            "needGroup": null,
+            "percent": null,
+            "progressText": "",
+            "describe": "",
+            "placeAnOrderPriceText": "",
+            "placeAnOrderShareText": "",
+            "robberUid": null
+        },
+        "bottomTipsText": "参团用户可以选择任意商品随意拼",
+        "isCarve": 0,
+        "goldInfo": {
+            "suId": "",
+            "payAmount": "0",
+            "goldNum": 0,
+            "goldDeductionAmount": "0",
+            "goldDeductionAmountCent": null,
+            "enableSale": null,
+            "activityId": "",
+            "activityProductId": "",
+            "activityProductSkuId": "",
+            "activityPoolId": "",
+            "discountSupplierPrice": null,
+            "discountPlatformPrice": null,
+            "discountSupplierRatio": null,
+            "discountPlatformRatio": null,
+            "stockNum": null
+        },
+        "newUserPirceStr": "",
+        "generalPageUrlQuery": "",
+        "shopAllowEntryInfo": {
+            "isShowAllowanceFloat": 0,
+            "allowanceFloatImg": "",
+            "urlQuery": ""
+        },
+        "buyReturn": {
+            "buyReturnSwitch": 1,
+            "selectoBtnTitle": "选好了",
+            "guideSwitch": 1,
+            "enteyImg": "https://bfs.biyao.com/group1/M01/0F/26/rBACYV7hRYSAKgyfAACSCSJjNfA150.png",
+            "urlQuery": ""
+        },
+        "designPrice": "0",
+        "productMdetail": "<div class=\"txq_container\">\n <div class=\"txq_header\">\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     咖啡豆\n    </dt>\n    <dd>\n     阿拉比卡咖啡豆\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     规格\n    </dt>\n    <dd>\n     6杯\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     是否含糖\n    </dt>\n    <dd>\n     配有糖包\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     产地\n    </dt>\n    <dd>\n     中国大陆云南省\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     咖啡粉保质期\n    </dt>\n    <dd>\n     12个月\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     糖包保质期\n    </dt>\n    <dd>\n     24个月\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     风味包保质期\n    </dt>\n    <dd>\n     18个月\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     纸杯材质\n    </dt>\n    <dd>\n     食品级口杯纸\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     杯套材质\n    </dt>\n    <dd>\n     双胶+口杯纸\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     杯盖材质\n    </dt>\n    <dd>\n     PP\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     滤杯材质\n    </dt>\n    <dd>\n     PP\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     滤网材质\n    </dt>\n    <dd>\n     改性PET\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     咖啡小罐材质\n    </dt>\n    <dd>\n     PP\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     搅拌棒材质\n    </dt>\n    <dd>\n     桦木\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     烘焙程度\n    </dt>\n    <dd>\n     烘焙程度属于中度，色度为69\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     咖啡因的含量\n    </dt>\n    <dd>\n     约1.23%\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     热量\n    </dt>\n    <dd>\n     1161千焦每杯/原味\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     温馨提示1\n    </dt>\n    <dd>\n     “原味大师”不含风味包\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     温馨提示2\n    </dt>\n    <dd>\n     订单交易成功后15个工作日内会将发票发送至预留的邮箱中\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     温馨提示3\n    </dt>\n    <dd>\n     一套产品只能定制一个图案、选择一种口味\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     温馨提示4\n    </dt>\n    <dd>\n     咖啡订单配送地址一经下单无法修改\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     温馨提示5\n    </dt>\n    <dd>\n     咖啡订单一经下单不支持修改口味\n    </dd>\n   </dl>\n  </div>\n  <div class=\"txq_item\">\n   <dl>\n    <dt>\n     温馨提示6\n    </dt>\n    <dd>\n     咖啡定制图案仅杯套圆圈内展示\n    </dd>\n   </dl>\n  </div>\n </div>\n <div class=\"txq_details\">\n  <p><img src=\"http://bfs.biyao.com/group1/M01/57/46/rBACVF8fwQyAKvk9AAddusuK_RM400.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/58/A2/rBACYV8fwQyAW4EaAAUYqhb3SBU317.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/57/46/rBACVF8fwQyAIISYAAcCjR3zj0k312.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/58/A2/rBACYV8fwRCAHNeAAA2Zg6BBHCQ142.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/59/2B/rBACW18fwRCAbXLJAAbMhXYzLe8564.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/57/46/rBACVF8fwQ-AGln0AAQKA-aZfmI495.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/58/A2/rBACYV8fwRCAQZ4KAANHWTjmcnk136.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/59/2B/rBACW18fwRKAdKlUAAcsRk1n-i8837.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/59/2B/rBACW18fwRKAJaBmAAQPb8iTOwA346.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/57/46/rBACVF8fwRKAQclzAAIfQcs77d4546.jpg\"></p>\n  <p><img src=\"http://bfs.biyao.com/group1/M01/20/28/rBACVF-2UIuAIAnwAAiERi6Xt3I759.jpg\"></p>\n  <p><br></p>\n </div>\n</div>",
+        "groupLimitType": 0,
+        "newUserByTwoInfo": {
+            "firstOrderText": "",
+            "newUserBtnText": "",
+            "shopBagNum": null
+        },
+        "coffeeGoods": {
+            "tag": "",
+            "cardImg": "",
+            "designId": "",
+            "suId": "",
+            "avatarUrl": "",
+            "nickName": "",
+            "likesNum": "",
+            "praiseHandle": "",
+            "isLikes": null,
+            "shopId": "",
+            "previewUrlSmall": "",
+            "type": null
+        },
+        "coffeeToast": {
+            "loading": "专属咖啡杯生成中…",
+            "mergeFail": "图片保存失败，请重试"
+        },
+        "categoryId": 6000128,
+        "joinGroupType": 0,
+        "supportLive": 0
+    }
+}

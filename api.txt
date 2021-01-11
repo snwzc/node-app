@@ -1,4 +1,4 @@
-
+﻿
 
 1.https://apiplus.biyao.com/friend/getCategoryList.do
  	白羊工场
@@ -14,7 +14,7 @@
 	identity: 3
 	财经 杂志梦工场  https://bfs.biyao.com/group1/M01/DB/C0/rBACYV69FSqAP_r0AAFQvMw9Eb8366_150x150.jpg
 		         https://bfs.biyao.com/group1/M01/DB/BE/rBACYV69E_aAO8ttAAATv4VuPvA189.jpg
-	targetUid: 37846088
+	targetUid: 7846088
 	identity: 3
 	
 
